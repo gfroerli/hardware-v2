@@ -172,6 +172,11 @@
   (lib_gate 31a86190-d1bd-4020-9c55-fb569fe21d5a)
   (position -73.66 -20.32) (rotation 90.0) (mirror true)
  )
+ (symbol e7eb880e-ef19-454f-9a94-af5240c69e55
+  (component d491c661-0f19-4ad8-a7e2-0a2cff1ee5b2)
+  (lib_gate 0539fd52-890f-48af-97a9-bacfb79c9475)
+  (position -76.2 45.72) (rotation 0.0) (mirror false)
+ )
  (symbol eab5645d-8c1e-464c-9ff3-7d87fefb82e6
   (component 7833cbc1-8921-4813-b099-8133e8bec836)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
@@ -185,7 +190,7 @@
  (symbol f0fd050c-f399-4915-97d7-4c1c6448ee94
   (component 0ff1397f-5e4c-4060-94ab-8584f6d50975)
   (lib_gate 0539fd52-890f-48af-97a9-bacfb79c9475)
-  (position -88.9 22.86) (rotation 0.0) (mirror false)
+  (position -91.44 22.86) (rotation 0.0) (mirror false)
  )
  (symbol fdd156e6-413c-4175-90b8-fd99329585cb
   (component d033ede5-1159-4fa3-8385-04f463dbdfbb)
@@ -224,7 +229,7 @@
  )
  (netsegment 20802f7b-fd5b-4594-8d49-19d54624442f
   (net 7bce9215-22e4-4be8-9bec-7495ce622913)
-  (junction 88d1b7eb-ccb2-48be-bd6c-4a46ef9dd65a (position -88.9 30.48))
+  (junction 88d1b7eb-ccb2-48be-bd6c-4a46ef9dd65a (position -91.44 30.48))
   (line 186ac14d-5e15-412f-b460-47125544de40 (width 0.15875)
    (from (symbol 98951df5-1b56-423c-bc64-d9aaa9be5cbd) (pin fba2100c-f69f-40e1-b6be-8b2f2758ad52))
    (to (symbol c84322e8-3ab6-4912-882c-a6adc89b5f83) (pin 99ba7020-af70-432f-9584-c452397065c5))
@@ -337,6 +342,18 @@
   )
   (label b22d161c-c520-4444-9796-c6507d9ea472
    (position -2.54 -66.04) (rotation 0.0)
+  )
+ )
+ (netsegment 553d97b5-d0fb-4bf7-a980-abcd96f0ac1d
+  (net 7bce9215-22e4-4be8-9bec-7495ce622913)
+  (junction 6d4d9817-0a7d-47aa-9a05-d18764b3d0c1 (position -76.2 50.8))
+  (line 4dfc0f87-9813-4946-a141-b0b75c12e81e (width 0.15875)
+   (from (symbol e7eb880e-ef19-454f-9a94-af5240c69e55) (pin abcc319b-d09f-437b-a624-3dcf3eff5792))
+   (to (junction 6d4d9817-0a7d-47aa-9a05-d18764b3d0c1))
+  )
+  (line 4f8de8a0-4f5e-4dba-863f-0a9eac220efc (width 0.15875)
+   (from (symbol a4bf5b74-8311-4c52-8c2f-257d7c600ce4) (pin 4576e488-3281-472e-be7a-8a505728d0b9))
+   (to (junction 6d4d9817-0a7d-47aa-9a05-d18764b3d0c1))
   )
  )
  (netsegment 57bb0f08-1574-4372-9a2a-236358ca7c28

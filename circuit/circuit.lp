@@ -299,7 +299,7 @@
   (signal 7f8dfa23-51e0-4247-9d81-3a265759baa2 (net none))
   (signal 86b4c07e-9aa7-4971-9baa-edf7503bb78f (net none))
   (signal 897ea417-86b9-40e1-804f-ab81f1e68887 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
-  (signal 8a7bbe56-49b2-4f8c-9998-69f78a8cd348 (net none))
+  (signal 8a7bbe56-49b2-4f8c-9998-69f78a8cd348 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
   (signal 9b20ea6c-e226-4094-a245-3bb2ccd5a8a0 (net 8018255c-898b-4911-acdc-87ed45d9d8e5))
   (signal a4cdac81-be0c-4a56-8d93-6705f2a3c881 (net none))
   (signal a749e9ad-9180-4662-a2e7-fda8ed840037 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
@@ -423,6 +423,13 @@
   (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
   (lib_device none)
   (name "GND6") (value "GND")
+  (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+ )
+ (component d491c661-0f19-4ad8-a7e2-0a2cff1ee5b2
+  (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
+  (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
+  (lib_device none)
+  (name "GND11") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7bce9215-22e4-4be8-9bec-7495ce622913))
  )
  (component d59281c2-18d6-40ba-9acc-2da2b891456a

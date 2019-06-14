@@ -239,6 +239,8 @@
   (lib_variant ba5d10d3-c731-4bde-91d1-8e58564fdf81)
   (lib_device bdbfe67c-cccd-4005-9a29-68bf11c8ea3a)
   (name "Q2") (value "{{PARTNUMBER or DEVICE}}")
+  (attribute "PARTNUMBER" (type string) (unit none) (value "DMG6601LVT"))
+  (attribute "DIGIKEY" (type string) (unit none) (value "DMG6601LVT-7DICT-ND"))
   (signal 3202a2ee-d8be-4d8a-a0f4-2cbbd7022071 (net f66f9f2c-318e-4bf2-a5af-6f92f03fe0e8))
   (signal 98197955-ca0a-40c7-9fd8-2d40fa733c85 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
   (signal d8cf18ee-823a-4e73-b2ce-e4e0fc1b7486 (net 772cad37-56db-435f-88cb-c198580e02e5))

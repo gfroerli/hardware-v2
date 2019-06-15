@@ -63,6 +63,20 @@
   (netclass 74c7d652-aec8-439e-a162-79efb94ae8de)
  )
 
+ (component 004c9c0c-dbb0-48a1-bcc1-681d4957a4be
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC5") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
+ (component 00847d3b-eff1-4eb1-bb53-0eeeb67842a7
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC2") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
  (component 07097af6-0d9b-4940-9330-df8a11267a89
   (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
   (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
@@ -71,6 +85,13 @@
   (attribute "CAPACITANCE" (type capacitance) (unit picofarad) (value "18"))
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 095db96c-31e0-44fe-b4db-f3bbba528b30))
   (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+ )
+ (component 07ab7880-af53-46eb-bf28-eb895dc73bdf
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC4") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
  (component 0acaaae2-f098-4bb3-aeec-d977da11f560
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
@@ -115,6 +136,13 @@
   (signal 240a277c-c743-42e2-97a2-f314e6706ff8 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
   (signal c9881340-c7e8-4f5e-8106-7cc503d0a4e1 (net 5a00bcf7-63c6-4ba6-9e89-4656c3b14be6))
   (signal f6db9629-98f3-4694-ba05-245c96f02470 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+ )
+ (component 1a9280b4-c1a2-438f-8edf-2f583b226efd
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC6") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
  (component 20df600a-cd4f-49b2-9fef-f3572d2130dc
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
@@ -168,7 +196,7 @@
   (lib_component ce2ea95f-dbd2-432e-a6a6-6c20043f6d7e)
   (lib_variant bf5e0d54-c4fd-4d18-9b25-0fdf1374aa49)
   (lib_device 022a90f1-9aed-451a-8b94-32ff0ceb4b1d)
-  (name "J5") (value "")
+  (name "J5") (value "DS18B20")
   (signal 0fce2b54-6c4d-4fb2-8229-8ccd56b78f3d (net 7bce9215-22e4-4be8-9bec-7495ce622913))
   (signal 90333d19-ae13-468d-ac46-f52fd51015ff (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
   (signal a67fd334-a144-42f2-a582-a8c1bdbcbcee (net 26a5e324-5b2a-4193-8054-a5ce2419b150))
@@ -392,6 +420,13 @@
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 99e156fb-68c2-4882-b661-c4d9d279b53a))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
+ (component 9dda121d-d2c3-47a6-931f-963928a9d7b3
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC1") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
  (component a031829d-f40e-448b-9664-088e64cffa63
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
   (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
@@ -424,6 +459,13 @@
   (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "1"))
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
   (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+ )
+ (component bdeda9bb-5f90-4b2c-9524-1066ba8a4a27
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC3") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
  (component c002cad9-b177-4104-9ea8-309e98788f22
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)

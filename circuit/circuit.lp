@@ -162,6 +162,13 @@
   (name "GND15") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7bce9215-22e4-4be8-9bec-7495ce622913))
  )
+ (component 19b3390f-7b88-41e0-b39a-6f4c4f5e8dbd
+  (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
+  (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
+  (lib_device none)
+  (name "VCC7") (value "3V3")
+  (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
  (component 1a9280b4-c1a2-438f-8edf-2f583b226efd
   (lib_component 58c3c6cd-11eb-4557-aa3f-d3e05874afde)
   (lib_variant afb86b45-68ec-47b6-8d96-153d73567228)
@@ -556,6 +563,15 @@
   (lib_device none)
   (name "GND2") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+ )
+ (component c9cd1b40-8694-43c6-9aac-c128cb8578c4
+  (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)
+  (lib_variant a5995314-f535-45d4-8bd8-2d0b8a0dc42a)
+  (lib_device none)
+  (name "R11") (value "{{RESISTANCE}}")
+  (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value "4.7"))
+  (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 26a5e324-5b2a-4193-8054-a5ce2419b150))
+  (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
  (component d033ede5-1159-4fa3-8385-04f463dbdfbb
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)

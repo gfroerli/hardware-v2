@@ -182,6 +182,11 @@
   (lib_gate 697686cd-3e5c-47b4-a032-3afa494f663f)
   (position -58.42 30.48) (rotation 0.0) (mirror false)
  )
+ (symbol ad23693f-be7f-4d62-b0c1-5851d9597bb2
+  (component 19b3390f-7b88-41e0-b39a-6f4c4f5e8dbd)
+  (lib_gate 09b6d6c4-2d37-432f-9471-a317aad9a499)
+  (position 76.2 -53.34) (rotation 0.0) (mirror false)
+ )
  (symbol b94acffa-508b-4170-9458-c0af11cbc73b
   (component 8a685b4c-fc3c-4dbc-a633-d0f417b3f9ec)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
@@ -211,6 +216,11 @@
   (component 4850b0f1-0604-44c5-ae04-98e96add8e4b)
   (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
   (position 55.88 -12.7) (rotation 0.0) (mirror false)
+ )
+ (symbol cf887272-f6c0-4414-ac54-da8a0349dd0c
+  (component c9cd1b40-8694-43c6-9aac-c128cb8578c4)
+  (lib_gate 5988c66a-f507-487e-9b40-486502e8c9bd)
+  (position 76.2 -63.5) (rotation 90.0) (mirror false)
  )
  (symbol d5077180-7285-4bca-abc0-6ba8a40bfd0b
   (component bdeda9bb-5f90-4b2c-9524-1066ba8a4a27)
@@ -360,6 +370,13 @@
   )
   (label a7f54d9a-c024-4066-820d-2a5caf32d098
    (position 142.24 0.0) (rotation 0.0)
+  )
+ )
+ (netsegment 260b1d37-c09f-4e35-92be-886da66a5331
+  (net 944f7e0a-eb5e-4d13-a162-d5a638baa805)
+  (line 61395031-b0d6-4755-9ba5-d93ed6e9d613 (width 0.15875)
+   (from (symbol cf887272-f6c0-4414-ac54-da8a0349dd0c) (pin 2731f213-ee20-4eb0-a18b-ad97d9fea7a0))
+   (to (symbol ad23693f-be7f-4d62-b0c1-5851d9597bb2) (pin 771c2d8b-e4ad-487b-bcb1-fe2bc10c8a03))
   )
  )
  (netsegment 2882be5a-0268-49b6-98ef-f9e92be2a1e6
@@ -1150,6 +1167,17 @@
   )
   (label f1a7ed4c-7bbc-42bf-ae0f-62b35ec3ae6e
    (position 35.56 58.42) (rotation 0.0)
+  )
+ )
+ (netsegment e208eb27-77fd-4506-b038-0bab8fdf9d94
+  (net 26a5e324-5b2a-4193-8054-a5ce2419b150)
+  (junction 5bf1e40f-37ff-4fff-8724-0aba80ab36e1 (position 76.2 -73.66))
+  (line 3cc3fd8c-cd87-4ad7-87dd-5818ce2dcc79 (width 0.15875)
+   (from (symbol cf887272-f6c0-4414-ac54-da8a0349dd0c) (pin 2e4f8b10-ad5a-443e-b408-e183efaa4758))
+   (to (junction 5bf1e40f-37ff-4fff-8724-0aba80ab36e1))
+  )
+  (label a6961091-ed16-4a55-8739-7fda9bdffea0
+   (position 76.2 -73.66) (rotation 90.0)
   )
  )
  (netsegment e2d4c329-114b-4130-a1a5-a2eb320fcb1a

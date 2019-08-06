@@ -361,6 +361,17 @@
    (position -38.1 40.64) (rotation 0.0)
   )
  )
+ (netsegment 1c651a7d-23f7-4138-8763-463087ba6025
+  (net d9b45da0-1edf-499d-aca7-4014c99ce60a)
+  (junction b4326d90-7100-4819-9793-033c38fe97d9 (position -38.1 10.16))
+  (line da0cc9f3-2d80-4e88-a99d-a5831a07e2c0 (width 0.15875)
+   (from (symbol a4bf5b74-8311-4c52-8c2f-257d7c600ce4) (pin 4a858e20-e247-44c5-ae14-1ee569e7ab7c))
+   (to (junction b4326d90-7100-4819-9793-033c38fe97d9))
+  )
+  (label cf7cf1d4-1232-47dd-be4b-3192cd828a7d
+   (position -38.1 10.16) (rotation 0.0)
+  )
+ )
  (netsegment 25ceb2cf-e538-4be9-9519-7e258e0defa2
   (net 7bce9215-22e4-4be8-9bec-7495ce622913)
   (junction 0201f3ec-c3e5-4ada-96af-3f604e58b434 (position 142.24 0.0))
@@ -388,6 +399,17 @@
   )
   (label 2b75c3e9-e601-46a2-bef1-cc690f26a3ab
    (position -38.1 50.8) (rotation 0.0)
+  )
+ )
+ (netsegment 288b0e2e-6100-44f4-b576-e93c095e8317
+  (net 849de093-5f65-4155-9ab6-d04c7de0d7a8)
+  (junction 2b0e0fa7-f44a-4c8e-b873-8e0ff52a6b2b (position -38.1 7.62))
+  (line 595f2677-0d51-43f9-ad20-6c6f4e07dde6 (width 0.15875)
+   (from (symbol a4bf5b74-8311-4c52-8c2f-257d7c600ce4) (pin f0ff76d8-f045-4726-8322-90802b72f86a))
+   (to (junction 2b0e0fa7-f44a-4c8e-b873-8e0ff52a6b2b))
+  )
+  (label 6792636f-8c64-4cf1-81e6-77552bcaa5ed
+   (position -38.1 7.62) (rotation 0.0)
   )
  )
  (netsegment 2bddb209-bb40-4c37-89cd-505786285085
@@ -580,6 +602,17 @@
   )
   (label f46b3e6f-fd69-4bfb-a5d3-b755779180bb
    (position 43.18 -12.7) (rotation 0.0)
+  )
+ )
+ (netsegment 64147cbe-ee25-41f5-bb6b-d00e798cc01e
+  (net 1a1a8b1d-ea1a-4952-94d9-a063871e276a)
+  (junction 1b763908-f432-4941-a9bd-d69d1b60624e (position -38.1 12.7))
+  (line 3446f4a2-9ee4-4c41-80af-337a7944c6a0 (width 0.15875)
+   (from (symbol a4bf5b74-8311-4c52-8c2f-257d7c600ce4) (pin 83ac4118-97a0-4754-b88b-135a2f870dc2))
+   (to (junction 1b763908-f432-4941-a9bd-d69d1b60624e))
+  )
+  (label 06feb868-2fa6-4aec-8268-b90643dbc79c
+   (position -38.1 12.7) (rotation 0.0)
   )
  )
  (netsegment 684651b4-8f5f-4a8b-9fa0-0bac349da643

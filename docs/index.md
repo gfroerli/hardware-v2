@@ -14,4 +14,4 @@ by OLIMEX.
 
 - [Digikey](https://www.digikey.ch/product-detail/de/olimex-ltd/ARM-JTAG-20-10/1188-1016-ND/3471401)
 - [Olimex Store](https://www.olimex.com/Products/ARM/JTAG/ARM-JTAG-20-10/)
-- [Datasheet](../datasheets/ARM-JTAG-20-10_latest-schematic.pdf)
+- [Schematics](../datasheets/ARM-JTAG-20-10_latest-schematic.pdf)

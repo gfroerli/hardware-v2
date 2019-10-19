@@ -142,6 +142,11 @@
   (lib_gate 0539fd52-890f-48af-97a9-bacfb79c9475)
   (position -30.48 -22.86) (rotation 0.0) (mirror false)
  )
+ (symbol 6c7fc99b-9cef-4af5-a866-0556e4fa1092
+  (component 2ab4810e-271c-4e26-836a-6ce09ec92c74)
+  (lib_gate a5d5d5e7-f0da-45e2-af2e-85ebba01efb7)
+  (position 96.52 58.42) (rotation 0.0) (mirror true)
+ )
  (symbol 6cda6d67-4308-401d-ac56-6c115484099c
   (component 82550978-9e1f-4f4c-b608-faf676e51ebb)
   (lib_gate 80e56299-8f8c-4613-a559-1fba31f01411)
@@ -271,6 +276,11 @@
   (component 07c5f55d-83d1-471d-98c3-c54991b68fa7)
   (lib_gate 9a4703ce-700d-4e49-9b6f-6c126199be8d)
   (position -86.36 -35.56) (rotation 0.0) (mirror true)
+ )
+ (symbol d8434c7d-4522-4d9f-89fb-bf2f36c50215
+  (component 7a8ce727-8ec7-4ef8-a2e1-1517d0565e7d)
+  (lib_gate 0539fd52-890f-48af-97a9-bacfb79c9475)
+  (position 91.44 48.26) (rotation 0.0) (mirror false)
  )
  (symbol dc55efc7-43c9-43e4-8710-65711a3a950a
   (component c7641b04-fd86-4599-9e43-7a7e75361483)
@@ -457,6 +467,13 @@
   )
   (label 2b7a6377-8bdb-4921-9630-e5730ea73fb6
    (position -40.64 40.64) (rotation 0.0)
+  )
+ )
+ (netsegment 2808bc20-5706-4458-bea6-eb3574965a76
+  (net 7bce9215-22e4-4be8-9bec-7495ce622913)
+  (line c64780a0-e0f0-4ac2-83f8-41e4f04aaced (width 0.15875)
+   (from (symbol d8434c7d-4522-4d9f-89fb-bf2f36c50215) (pin abcc319b-d09f-437b-a624-3dcf3eff5792))
+   (to (symbol 6c7fc99b-9cef-4af5-a866-0556e4fa1092) (pin c9af3248-7da4-4458-a005-0d1ffd88769c))
   )
  )
  (netsegment 2882be5a-0268-49b6-98ef-f9e92be2a1e6
@@ -1150,6 +1167,13 @@
   )
   (label 7f979e55-b1d1-4738-bdd8-091c2e61d9be
    (position -58.42 -7.62) (rotation 0.0)
+  )
+ )
+ (netsegment b1b98518-9fb5-4697-af48-df052262d0ff
+  (net 571d34ce-6c7e-4b7a-90bc-993dc39b2a83)
+  (line 196ba96c-b11d-448a-bba2-11801957ce8a (width 0.15875)
+   (from (symbol 6c7fc99b-9cef-4af5-a866-0556e4fa1092) (pin 6dc510d1-c6fa-4e9e-aa70-7e8ce5ac17dd))
+   (to (symbol 485579c6-2cfc-404b-be89-1c5b2d00bdc5) (pin f8cda901-88ef-439c-9cd5-9da367c87fdf))
   )
  )
  (netsegment b2713909-51bf-4f4b-83f5-42b6779b7462

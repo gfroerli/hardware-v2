@@ -400,7 +400,7 @@
   (lib_component f7b52b62-7814-4a74-88ac-155e101507d5)
   (lib_variant 75a3b2bb-300f-4ef0-9f8e-dbe84c4c4d55)
   (lib_device f7139d7c-a7df-4cb2-af92-06b38f7a12f4)
-  (name "J7") (value "{{PARTNUMBER}}")
+  (name "J7") (value "Power Selector\nJumper\n{{PARTNUMBER}}")
   (signal 2a1b21cb-3055-45c7-ae24-1c95c3864106 (net d644dd4c-00e2-4030-a55d-4cc3157581d6))
   (signal ab3ff7fb-1204-44b8-8186-4980033cb3cb (net ce0dd819-c89c-49a0-9dd1-3dc629890b89))
   (signal b5721ec8-eac4-4e61-ab35-545798d77c87 (net 09b03378-e688-4222-89fe-3e4ffc412df1))

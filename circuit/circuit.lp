@@ -291,6 +291,8 @@
   (lib_variant 7f4d7297-70be-4c72-83e3-669a5541aa3a)
   (lib_device 0d2e7a64-54aa-4def-b413-38225fdc15f1)
   (name "Q1") (value "{{PARTNUMBER or DEVICE}}")
+  (attribute "DIGIKEY" (type string) (unit none) (value "SSM3J338RLFCT-ND"))
+  (attribute "MPN" (type string) (unit none) (value "SSM3J338R,LF"))
   (signal 4308566a-063a-410c-8469-ab696de3d8d6 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
   (signal 75c0fa1c-f591-427b-803f-43b7a711be0c (net 24e3665c-8edf-440d-981d-a3cfdfcfd368))
   (signal ffa8b604-4419-4a31-b2f6-8dec9edf39c6 (net dd7c368d-8b07-4fb9-a985-313acc30e05f))

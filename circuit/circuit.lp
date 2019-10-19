@@ -157,16 +157,6 @@
   (name "GND4") (value "GND")
   (signal ff161c97-29a5-43aa-a9ae-3ca7a66982ce (net 7bce9215-22e4-4be8-9bec-7495ce622913))
  )
- (component 0efe7248-ca66-4355-a147-9432160191e1
-  (lib_component fd175594-0a7e-443f-ae71-6126adbf106e)
-  (lib_variant 5cb03097-d3ef-40ae-bb8b-a2874dd0875b)
-  (lib_device c0e752b9-c6aa-4fb1-afaf-60ccc19511ba)
-  (name "U3") (value "{{PARTNUMBER or DEVICE}}")
-  (signal 0abb84c9-f452-4ae1-a6a3-c3cf31e3157c (net 7bce9215-22e4-4be8-9bec-7495ce622913))
-  (signal 3a9f594b-8d53-4cf4-816a-a85d265730e7 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
-  (signal 9b86c706-c378-4a19-85d3-2135a0ace920 (net d644dd4c-00e2-4030-a55d-4cc3157581d6))
-  (signal c12bcf97-b5fa-4533-ad05-b3b5d9bd3e2d (net d644dd4c-00e2-4030-a55d-4cc3157581d6))
- )
  (component 0ff1397f-5e4c-4060-94ab-8584f6d50975
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)
   (lib_variant f09ad258-595b-4ee9-a1fc-910804a203ae)
@@ -685,6 +675,16 @@
   (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value "4.7"))
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 26a5e324-5b2a-4193-8054-a5ce2419b150))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
+ (component ca611068-94aa-43e7-98d5-05e52659285a
+  (lib_component fd175594-0a7e-443f-ae71-6126adbf106e)
+  (lib_variant 5cb03097-d3ef-40ae-bb8b-a2874dd0875b)
+  (lib_device c0e752b9-c6aa-4fb1-afaf-60ccc19511ba)
+  (name "U3") (value "{{PARTNUMBER or DEVICE}}")
+  (signal 0abb84c9-f452-4ae1-a6a3-c3cf31e3157c (net 7bce9215-22e4-4be8-9bec-7495ce622913))
+  (signal 3a9f594b-8d53-4cf4-816a-a85d265730e7 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+  (signal 9b86c706-c378-4a19-85d3-2135a0ace920 (net d644dd4c-00e2-4030-a55d-4cc3157581d6))
+  (signal c12bcf97-b5fa-4533-ad05-b3b5d9bd3e2d (net d644dd4c-00e2-4030-a55d-4cc3157581d6))
  )
  (component d033ede5-1159-4fa3-8385-04f463dbdfbb
   (lib_component 8076f6be-bfab-4fc1-9772-5d54465dd7e1)

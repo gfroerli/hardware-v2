@@ -412,7 +412,7 @@
   )
  )
  (netsegment 1a296c08-cd67-4f04-882c-305d8dd0dc5d
-  (net cfa55e20-3702-46ec-a6bd-1a18fcd7661c)
+  (net a80fa509-ee29-4b19-98fe-83759da69b9a)
   (junction 48d80bed-48f7-45f0-a087-bfc6cf813f9f (position -40.64 55.88))
   (line 03c9bdf2-b6cb-45bc-8602-60e9d9dc08d2 (width 0.15875)
    (from (symbol a4bf5b74-8311-4c52-8c2f-257d7c600ce4) (pin 2b5e1b86-4038-4395-a109-a5827cd987cf))

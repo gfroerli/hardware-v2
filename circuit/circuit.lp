@@ -564,6 +564,8 @@
   (name "Q3") (value "{{FREQUENCY}}")
   (attribute "FREQUENCY" (type frequency) (unit hertz) (value "32768"))
   (attribute "DIGIKEY" (type string) (unit none) (value "644-1386-1-ND"))
+  (attribute "PARTNUMBER" (type string) (unit none) (value "NX3215SA-32.768KHZ-EXS00A-MU00525"))
+  (attribute "LOAD_C" (type capacitance) (unit picofarad) (value "6"))
   (signal 878301c2-bacc-4ffa-923c-ef5b1f06e5fe (net 095db96c-31e0-44fe-b4db-f3bbba528b30))
   (signal fd760be8-09ce-411f-a869-fdc1e74229a9 (net 7b31275f-d84a-4c81-8ac5-5eaab473875d))
  )

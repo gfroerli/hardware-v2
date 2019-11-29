@@ -119,6 +119,12 @@
   (name "VCC2") (value "3V3")
   (signal 1d893320-f811-4a79-b64e-cc23d749d394 (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
  )
+ (component 052b1d40-0826-48ec-8ca2-c4d2ad9c999b
+  (lib_component f6542150-82a2-4a67-aec2-8a08ce0c55d2)
+  (lib_variant 7a85c3f5-39d0-406e-abba-8393a7d27b56)
+  (lib_device 6fb62718-a818-4229-8370-11813c372305)
+  (name "\?1") (value "Made At\nCoredump")
+ )
  (component 07097af6-0d9b-4940-9330-df8a11267a89
   (lib_component d167e0e3-6a92-4b76-b013-77b9c230e5f1)
   (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
@@ -317,6 +323,12 @@
   (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value "10"))
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 5a00bcf7-63c6-4ba6-9e89-4656c3b14be6))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 944f7e0a-eb5e-4d13-a162-d5a638baa805))
+ )
+ (component 4afa29dd-9bd4-4883-843f-dc805d03aa7d
+  (lib_component b91cf23a-4f07-4b99-8f52-0b42304aef20)
+  (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
+  (lib_device 7186a6b2-4042-451f-a698-288394ec67a7)
+  (name "LOGO1") (value "Made With\nLibrePCB")
  )
  (component 4bc89bb9-4fb9-42fd-9b86-3f64c6c8233e
   (lib_component ef80cd5e-2689-47ee-8888-31d04fc99174)

@@ -1,5 +1,5 @@
 (librepcb_component 48c92cdf-40b8-4ed2-98b4-2d96d385c636
- (name "Pin Socket 1x7")
+ (name "Pin Socket 1x07")
  (description "A 1x7 female pin socket.\n\nGenerated with librepcb-parts-generator (generate_connectors.py)")
  (keywords "connector, 1x7, pin socket, female header")
  (author "Danilo B.")

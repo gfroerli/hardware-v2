@@ -236,6 +236,8 @@
   (lib_variant 907932cc-b6c9-4792-b30c-727d04fd141d)
   (lib_device ac05e574-5775-4157-89fa-4c5823b8170e)
   (name "J8") (value "SMA\n{{PARTNUMBER}}")
+  (attribute "PARTNUMBER" (type string) (unit none) (value "142-0701-801"))
+  (attribute "DIGIKEY" (type string) (unit none) (value "J502-ND"))
   (signal 73bd303c-728e-424d-aa1a-0e5ca63515d7 (net 571d34ce-6c7e-4b7a-90bc-993dc39b2a83))
   (signal 90b302c2-f55e-4c77-add4-261ae9843945 (net 7bce9215-22e4-4be8-9bec-7495ce622913))
  )

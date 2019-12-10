@@ -1,7 +1,7 @@
 (librepcb_board 40295ca7-128f-4c1e-90ec-79de77364cdf
  (name "Board")
  (default_font "newstroke.bene")
- (grid (type dots) (interval 0.254) (unit mils))
+ (grid (type dots) (interval 0.635) (unit millimeters))
  (layers (inner 0))
  (design_rules
   (name "LibrePCB Default Design Rules")
@@ -4963,6 +4963,11 @@
   (height 0.8) (stroke_width 0.15) (letter_spacing auto) (line_spacing auto)
   (align left center) (position 20.321252 81.2806) (rotation 90.0)
   (auto_rotate true) (mirror false) (value "Usb")
+ )
+ (stroke_text 5bab166c-abda-4fbd-9aa7-1dffbea01d9c (layer bot_placement)
+  (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
+  (align left bottom) (position 22.86 51.435) (rotation 0.0)
+  (auto_rotate true) (mirror true) (value "https://gfrör.li/\n\nOpen Source Hardware")
  )
  (stroke_text 5dedc60b-749c-41b7-a723-b98832942b06 (layer top_placement)
   (height 0.8) (stroke_width 0.15) (letter_spacing auto) (line_spacing auto)

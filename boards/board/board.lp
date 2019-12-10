@@ -698,7 +698,7 @@
   (junction a7c85be2-09c0-4bc8-b2b0-4a5f4af3dedb (position 31.75 40.005))
   (junction aab9c6be-b058-4117-8101-1b29f27938ab (position 43.02125 73.50125))
   (junction b2452f2c-6b2b-4f03-b1d1-d7773a073438 (position 50.03 5.85))
-  (junction b4e349cf-4dac-42de-a720-33fd485b9b63 (position 2.2 20.9775))
+  (junction b4e349cf-4dac-42de-a720-33fd485b9b63 (position 2.2 23.5175))
   (junction b5b96fe5-1f21-460b-b996-4e9648d192bc (position 43.1225 37.465))
   (junction be61e765-79be-4d80-8917-514f2f02ee1d (position 29.845 4.445))
   (junction c12fb66f-cfe1-4221-92b0-5bb008eb3966 (position 31.115392 73.660928))

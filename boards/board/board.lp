@@ -39,8 +39,8 @@
    (suffix_npth "_DRILLS-NPTH.drl")
    (suffix_merged "_DRILLS.drl")
   )
-  (solderpaste_top (create false) (suffix "_SOLDERPASTE-TOP.gbr"))
-  (solderpaste_bot (create false) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
+  (solderpaste_top (create true) (suffix "_SOLDERPASTE-TOP.gbr"))
+  (solderpaste_bot (create true) (suffix "_SOLDERPASTE-BOTTOM.gbr"))
  )
 
  (device 052b1d40-0826-48ec-8ca2-c4d2ad9c999b

@@ -1,0 +1,20 @@
+G04 --- HEADER BEGIN --- *
+%TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.3*%
+%TF.CreationDate,2019-12-12T00:16:35*%
+%TF.ProjectId,Gfro?rli Hardware - Board,40295ca7-128f-4c1e-90ec-79de77364cdf,v2*%
+%TF.Part,Single*%
+%FSLAX66Y66*%
+%MOMM*%
+G01*
+G74*
+G04 --- HEADER END --- *
+G04 --- APERTURE LIST BEGIN --- *
+%ADD10R,4.5974X1.9304*%
+G04 --- APERTURE LIST END --- *
+G04 --- BOARD BEGIN --- *
+D10*
+X36512500Y21674000D03*
+X36512500Y12911000D03*
+G04 --- BOARD END --- *
+%TF.MD5,14e37cd96e3cbce4f264f476a09ba205*%
+M02*

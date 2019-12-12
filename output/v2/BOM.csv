@@ -11,6 +11,7 @@ Quantity;Designators;Value;Device;Package;PARTNUMBER;DIGIKEY;MANUFACTURER
 1;J5;SWD Connector 3220-10-0300-00;CNC Tech 3220-10-0300;CNCTECH_3220-10-0300-XX;3220-10-0300-00;1175-1629-ND;CNC Tech
 1;J6;Micro USB (power only);Molex 1051330001;MOLEX_1051330001;1051330001;WM9734CT-ND;Molex
 1;J7;Power Selector Jumper;Generic Pin Header 2.54mm 2x03 ⌀1.0mm;Pin Header 2.54mm 2x03 ⌀1.0mm;PRPC003DAAN-RC;S2011EC-03-ND;Sullins
+1;J7+;Power Selector Jumper;;;QPC02SXGN-RC;S9337-ND;Sullins
 1;J8;SMA 142-0701-801;Cinch Connectivity Solutions 142-0701-801;CINCH_142-0701-80X;142-0701-801;J502-ND;Cinch Connectivity Solutions
 1;JP1;RN_NRST;Solder Jumper 2P;Solder Jumper 2P;;;
 1;JP2;;Solder Jumper 2P;Solder Jumper 2P;;;

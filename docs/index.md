@@ -1,10 +1,16 @@
 # Gfrör.li Documentation
 
-## [RN2483](./rn2483.md)
+## RN2483
 
-## [STM32L071](./stm32l071.md)
+See [`rn2483.md`](./rn2483.md).
 
-## [Antenna / RF](./rf.md)
+## STM32L071
+
+See [`stm32l071.md`](./stm32l071.md)
+
+## Antenna / RF
+
+See [`rf.md`](./rf.md)
 
 ## Debugger
 

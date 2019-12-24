@@ -7,6 +7,10 @@ Aisler order link for v2.0: https://aisler.net/p/OROZOWMP
 
 This is a [LibrePCB](https://librepcb.org) project!
 
+## Docs
+
+See [`docs/index.md`](./docs/index.md)
+
 ## License
 
 No license set.

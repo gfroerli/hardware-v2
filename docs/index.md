@@ -47,4 +47,4 @@ The peak power consumption is:
  * SHTC3: ~1mA
  * DS18B20: ~1.5mA
 
-So if we calculate with a peak power consumption of 100mA we should be on the save side.
+So if we calculate with a peak power consumption of 100mA we should be on the safe side.

@@ -37,3 +37,14 @@ To choose the power source, the jumper J7 needs to be set appropriately.
 If you want to power the board through the JLink debug probe, the solder bridge
 R1 on the OLIMEX adapter must be closed. Then 5V power will be [supplied on pin
 7 of the connector](../datasheets/ARM-JTAG-20-10_latest-schematic.pdf).
+
+### Power Consumption
+
+The peak power consumption is:
+ * RN2483: ~40mA
+ * STM32L071: ~10mA (IDD is 7.4mA according to datasheet Table 29.)
+ * LEDs: ~10mA
+ * SHTC3: ~1mA
+ * DS18B20: ~1.5mA
+
+So if we calculate with a peak power consumption of 100mA we should be on the save side.

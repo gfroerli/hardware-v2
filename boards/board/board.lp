@@ -1,7 +1,7 @@
 (librepcb_board 40295ca7-128f-4c1e-90ec-79de77364cdf
  (name "Board")
  (default_font "newstroke.bene")
- (grid (type dots) (interval 0.635) (unit millimeters))
+ (grid (type dots) (interval 0.3175) (unit millimeters))
  (layers (inner 0))
  (design_rules
   (name "LibrePCB Default Design Rules")
@@ -587,10 +587,10 @@
    (align center bottom) (position 26.035 87.9475) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )
-  (stroke_text d6087ca1-9c8c-4005-b1a3-3deb2a769482 (layer top_documentation)
+  (stroke_text d6087ca1-9c8c-4005-b1a3-3deb2a769482 (layer top_values)
    (height 0.5) (stroke_width 0.1) (letter_spacing auto) (line_spacing auto)
-   (align center top) (position 27.623904 85.725756) (rotation 90.0)
-   (auto_rotate true) (mirror false) (value "LP5907")
+   (align center top) (position 26.988256 83.818596) (rotation 0.0)
+   (auto_rotate true) (mirror false) (value "LDO")
   )
  )
  (device d59281c2-18d6-40ba-9acc-2da2b891456a
